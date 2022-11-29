@@ -1,6 +1,3 @@
-// By Patriciakat 2022
-// A program that finds the longest word in each line from a text file
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
